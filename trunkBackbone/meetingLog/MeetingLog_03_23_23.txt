@@ -1,0 +1,5 @@
+Settled on using Phaser 3. The Phaser web work will work fine with Phaser 3. Talked about discussing player sprite 
+images with the graphics team. Discussed how we will implement web works into the game. Agreed on posting a skeleton of the game to the branches folder by the end of the week. 
+
+**Note**
+Have a discussion with all the teams to clarify how the game will look, and what assets will be used.

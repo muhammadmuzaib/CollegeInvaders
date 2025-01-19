@@ -1,0 +1,3 @@
+Settled on using Phaser 2 since the Webwork plugin for multi-programming with Phaser might not work with Phaser 3. 
+Agreed to study how Phaser framework Works and get familiar with it.
+Should Probably tell everyone we are going to use Phaser 2.

@@ -1,0 +1,31 @@
+QA Report
+
+collegeinvaders_rev24_functionaltest_mar28
+
+Author 
+Hong Lam To
+
+Test environment
+App version
+collegeinvaders_rev24
+Browser version
+Google Chrome v.111.0.5563.110 (Official Build) (arm64)
+Device model and OS version
+MacBook Air M1, 2020; macOS Ventura 13.2.1
+
+Test methodology
+Test Results
+
+Issues1
+
+after hit play game button in main page, the game is start
+unless make the page in full screen, 
+It may not show full game content, if the page has less than 623px in height and have more than 765px in width.
+It may crop the game content from the top of the screen.
+
+Issue2
+after hit play game button in main page, the game is start
+the game pause menu stops working after open inspect with chrome web browser.
+
+Summary
+Make sure the game content stretch properly, like to scale with screen size with aspect ratio. 

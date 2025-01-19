@@ -1,0 +1,35 @@
+﻿College Invaders Graphics
+
+
+* Due by 3/26
+* Setting Roles
+   * Eren: Background (500 X 500)
+   * Hda(Trustees) ( 64 X 64), Uploading images all together in svn.
+   * Cool beans( Admins): Enemies( 64 X 64) 
+   * Andy: Separating the player image and resizing to( 64 X 64) 
+   * Jun: Resizing the pencil image to (16 X 16) 
+   * Zahid: Bullet of enemy(16 X 16) 
+   * ? : Resizing  the gateway png (500 X 500) https://favpng.com/png_view/gate-pixel-art-fortified-gateway-png/hcY9e3jr 
+* To Do
+   * Changed the art style to pixel art 
+      * Editing Tool: Pixilart - Free online pixel art drawing tool
+   * Discuss the file structures with backbone=> At the moment we will just make a folder and put everything in there. 
+   * Dotted
+   * Background, Player, Enemy images
+      * Background => just plain green background (500 X 500) mentioned in the spec’s documentation. 
+  
+
+      * Player =>( 64X64) Using Andy’s image/ Separate the image into four + bullet
+      * Enemy(Admins / Trustee) =>Admin( 64X64) , Trustee(100 X 100)
+         * Bullet: For now, any kind of bullet (simple)(16 X 16)
+         * Please see section 3.3.4.1 for detailed specs for the Trustee. 
+         * https://svn.riouxsvn.com/collegeinvaders/trunkSpecs/SpecsMinutes3-7-23.txt
+   * Make a folder named “Assets” in the svn folder
+      * Later, we will add more sub-folders for each of the objects. 
+* Later 
+   * Discuss more the player’s variation with specs
+   * Blood splatting effect
+   * Barriers
+   * Enemy’s Bullet idea: Bills or Textbooks
+   * Background: For now, we will make one default image. 
+      * (later) Have four seasons images. ( Spring, Summer, Fall, and Winter)

@@ -1,0 +1,26 @@
+collegeinvaders_rev29_functionaltest_mar30
+
+Author 
+Hong Lam To
+
+Test environment
+App version
+collegeinvaders_rev29
+Browser version
+Google Chrome v.111.0.5563.110 (Official Build) (arm64)
+Device model and OS version
+MacBook Air M1, 2020; macOS Ventura 13.2.1
+
+Test methodology
+Test Results
+
+Issues1
+the min size of the game is 200x200 px
+But if the webpage ratio is too wide, game content may be missing.
+It may crop the game content from the top of the screen.
+
+Issue2
+the game pause menu stops working , it cannot press (Resume, Restart, Quit) buttons if click pause button while opening inspect with chrome web browser.
+
+Issue3
+Arrow keys may move the page with from scrolling.

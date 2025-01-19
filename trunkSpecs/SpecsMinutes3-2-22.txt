@@ -1,0 +1,20 @@
+Specs Notes 3.2.22
+
+Decision to organize SRS by object
+Agreement to modify template and remove the following sections:
+	
+	3.3 Performance requirements
+	3.4 Design constraints
+	3.5 Software system attributes
+	3.6 Other requirements
+
+Assignment of work as follows:
+	Barriers - Diana
+	Special enemy - Chulan
+	Regular enemy - Samir 
+	Player - Mery 
+	Environment/UI - Ori
+        Audio - Nate d
+
+First draft/workable draft of initial SRS parts to be completed by Monday 3/6 at 8:00pm
+

@@ -1,0 +1,5 @@
+march 2nd, 2023
+
+1) Talked about which framework to use for the project.
+2) Professor pointed out that the framework we choose should be able to support multi-threading.
+3) Need to do more research on multi-threading and frameworks that support multi-threading in javascript. 

@@ -1,0 +1,15 @@
+Meeting to change some specifications and refine others:
+	- Decision to make the mechanics of the game as close to the original Space Invaders as possible
+	- No player activated shield will be implemented - only the 4 barriers/shields in the original game
+	- Must specify how much enemies move towards player and now frequently 
+	- Extra life given at 1500 points 
+
+Regarding Questions from Graphics team:
+	- Enemy sprites will be human shaped - but "dressed up" differently to differentiate the amount of points an enemy is worth/class of enemy
+		-IE: hat, or tie etc
+	- SRS cannot specify which specific methods to use when it comes to player and enemy objects/sprites - but pixel art is a viable option
+	- Projectiles player fires will be pencils 
+	- Trustee explosion will include red blood color
+	- Font size - location/background can be decided by graphics team 
+	- UI design up to graphics 
+

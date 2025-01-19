@@ -1,0 +1,10 @@
+Mar 2 2023
+
+1. Graphic Editor : Canva
+2. Object: Finish the minimum requirements first, and do the extra features.
+3. Discussion with Specs
+- Art style : Dot art / Regular 2D art style?
+- Theme suggestion : Wreck it Ralph (enemies coming out from windows)
+
+What is our games’ theme?
+- Trustee can have different blood colors?

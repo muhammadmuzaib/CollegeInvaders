@@ -1,0 +1,28 @@
+Author: Muhammad Muzaib
+Group: Backbone
+Date: April 4th, 2023
+
+
+Half of Backbone members did not show up. The ones that did show up were:
+1) Cindy (Cat lady)
+2) Rahman (Group 3)
+3) tzebohn (Group 3)
+4) Muzaib (Group 1)
+
+**NOTE**
+The girl with the short hair (I do not know her name or discord username) failed to upload the meeting log for our last meeting so I will cover that now.
+**
+
+Team members and their responsibilities:
+1) Group 1: Develops Player classes, enemy classes including Admin and Trustee.
+	Members: Muzaib, Cindy, Insert Name, Insert Name
+2) Group 2: Develops collision handling between all objects through multi-programming. Will need to work together with Group 1 on some tasks.
+	Members: The girl with the short hair, Insert Name, Insert Name
+3) Group 3: Develop functionalities like Restart, Pause, Game Over conditions, Timer, Player stats after the game ends, and click to start. 
+	Suggestion: The timer will possibly need to me multi-programmed (Work with Group 2 to achieve this).
+	Members: tzebohn, Rahman
+
+
+******Spring Break HW**********
+After we return from spring break, functionalities like pause/restart and enemies being displayed and firing should be working. 
+
