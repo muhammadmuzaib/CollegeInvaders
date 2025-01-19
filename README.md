@@ -34,3 +34,5 @@ Move Left	        ← or A
 Move Right	        → or D
 Fire	            Spacebar
 Pause/Resume	    P
+```
+![CollegeInvaders](https://github.com/user-attachments/assets/b5bafa7a-c8aa-4938-90bd-00842e171d86)
