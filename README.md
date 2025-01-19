@@ -34,4 +34,4 @@ Move Left	        ← or A
 Move Right	        → or D
 Fire	            Spacebar
 Pause/Resume	    P
-![CollegInvaders](https://github.com/images/CollegeInvaders.png?raw=true)
+![GameScreenShot](https://github.com/muhammadmuzaib/CollegeInvaders/blob/main/images/CollegeInvaders.png?raw=true)
