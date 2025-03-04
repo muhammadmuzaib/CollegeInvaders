@@ -6,7 +6,6 @@ Description: This game is similar to the original space invaders game.
 */
 
 import MainMenu from "./MainMenuScene.js";
-//import GameScene from './GameScene.js';
 import PauseScene from "./PauseScene.js";
 import ConfirmationScene from "./ConfirmationScene.js";
 import GameoverScene from "./GameoverScene.js";
@@ -41,14 +40,12 @@ var livesIncremented;
 // components
 var keyListener;
 
-//Create the game scene
 class GameScene extends Phaser.Scene {
   constructor() {
     super({ key: "GameScene" }); //create keyword
 
   }
 
-  //load all contents
   preload() {
     this.load.image("background", "assets/images/grassBackground.png");
     this.load.image("player", "assets/images/humanoid.png");
@@ -79,7 +76,7 @@ class GameScene extends Phaser.Scene {
     this.load.audio("enemyShot", "assets/audio/Enemy_Bullet_Sound.wav");
   }
 
-  //create all components for the game screen
+  //create all components for the game screen here.
   create() {
     var time = this.time;
 
@@ -87,16 +84,13 @@ class GameScene extends Phaser.Scene {
     this.music = this.sound.add("music", { loop: true });
     this.music.play();
 
-    //flag for incrementing lives
     livesIncremented = false;
 
-    //check if you beat round
     if (beatRound === false) {
-      score = 0; //reinitialize when starting new game
+      score = 0; 
       lives = 3;
       enemiesAlive = 55;
     } else {
-      //continue game with current score and lives and respawn enemies
       enemiesAlive = 55;
     }
     // create a sprite for the background image
@@ -104,9 +98,9 @@ class GameScene extends Phaser.Scene {
     backgroundImage.setOrigin(0, 0);
     backgroundImage.setScale(2);
 
-    // create player
+    // creating player here
     playerSprite = new Player(this, 335, 760, playerSize);
-    this.add.existing(playerSprite); // add player to the game world
+    this.add.existing(playerSprite);
     this.anims.create({
       key: "playerExplode",
       frames: this.anims.generateFrameNumbers("playerExplosion", {
